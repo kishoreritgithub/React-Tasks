@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont{
+    /* margin: 200px; */
+    text-align: center;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+    & img{
+        border-radius: 10%;
+        padding: 10px;
+        height: 60px;
+        
+    }
+        
+       
+        
+
+       
+    
+}
